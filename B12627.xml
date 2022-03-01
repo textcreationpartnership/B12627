@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kynges Maiesties free and most general pardon.</title>
+            <author>England and Wales. Sovereign (1547-1553 : Edward VI).</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1549</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12627</idno>
+            <idno type="STC">STC 7819.10</idno>
+            <idno type="STC">Interim Tract Supplement Guide Harl.7614[198]</idno>
+            <idno type="EEBO-CITATION">99892553</idno>
+            <idno type="PROQUEST">ocm99892553</idno>
+            <idno type="VID">188936</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B12627)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188936)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C14:1[78])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kynges Maiesties free and most general pardon.</title>
+                  <author>England and Wales. Sovereign (1547-1553 : Edward VI).</author>
+                  <author>Edward VI, King of England, 1537-1553.</author>
+               </titleStmt>
+               <extent>5 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted in the house of Richard Grafton, printer to the Kynges Maiestie,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1549]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Initial.</note>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from STC; printer's information from colophon.</note>
+                  <note>After imprint: Cum priuilegio ad imprimendum solum.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pardon --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Edward VI, 1547-1553 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:188936:1" rendition="simple:additions"/>
+            <head>¶ The Kynges Maieſties free and moſt general Pardon.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Kynges moſt royal Maieſtie right well perceiuyng his louyng ſubiectes by many and ſundrye wayes and meanes to haue borne and ſuſtayned the great aduentures, charges and buſyneſſes of warres and defences of this his realme, aſwell in the tyme of his moſte deare father kyng Henry the right, as in his tyme and reigne, ente<g ref="char:cmbAbbrStroke">̄</g>dyng of his clemency and pitie to gratifie his ſayd ſubiectes with his graces free and liberall pardon accordyng to his kyngly power, truſtyng aſſu<g ref="char:EOLhyphen"/>redly that his ſayd ſubiectes will continue his louyng and aſſured obe<g ref="char:EOLhyphen"/>dient ſubiectes, and hereafter in ſuche ſorte obey his highnes lawes and ſtatutes, as to theim and euery of theim of right appertaineth: is fully and reſolutely co<g ref="char:cmbAbbrStroke">̄</g>tented and pleaſed, that it be enacted by auctho<g ref="char:EOLhyphen"/>ritie of this preſent Parliament in maner and fourme folowyng, that is to ſay, that all and euery of his ſayd ſubiectes, aſwell ſpirituall as temporall of this his realme of Englande, Wales, the Iles of Ier<g ref="char:EOLhyphen"/>neſey and Gerneſey, Barwicke, Calleys, Guyſnes, Hammes, Bulloigne and Bullonoys &amp; the Marches of theſame, the heires, ſucceſſours, executours, and adminiſtrators of them and euery of them, and al and ſinguler bodies in any maner of wyſe corporate, Cities, Boroughes, Shires, Ridynges, Hundredes, la<g ref="char:EOLhyphen"/>thes, rapes wapentakes, tounes, villages and tithynges, and euery of them, &amp; the ſucceſſor and ſucceſſors of them, ſhalbe by thaucthoritie of this preſent Parliament acquited, pardoned, releaſed and diſcharged againſt the kynges highnes, his heyres, ſucceſſours and executours, and euery of theim of all maner of treaſons, hereſies, felonies, robberies, offences, contemptes, treſpaſſes, wronges, deceiptes, miſdemenors, forfaitures, penalties, and profites, ſu<g ref="char:cmbAbbrStroke">̄</g>mes of money, paynes of death, paynes corporal, &amp; pecuniary, and all other thinges, cauſes, quarelles, ſuites, iudgementes and execucions, whiche may be, or can be by his highnes in any wiſe, or by any meanes pardoned before &amp; vnto the xiiii. day of Marche in the yere of our Lord God M. CCCCC. xlviii. other then ſuche as hereafter in this act be excepted or forepriſed in ſuche maner and forme, &amp; vnto ſuche tymes as they bee excepted or forepriſed in this acte, and other then ſuche as the clauſes of prouiſo hereafter mencioned doth extende vnto.</p>
+            <p>
+               <hi>AND</hi> alſo the kynges highnes is further contented and pleaſed that it be enacted by the aucthoritie of this preſent Parliament, that this his ſayd general and free pardon, ſhalbe as good and effectuall in the law, to euery of his ſayd ſubiectes, bodies corporate, and other before reherſed, &amp; to euery of them, by the ſayd general wordes before reherſed in all thinges whiche be not hereafter in this preſent act excepted or forepriſed, as the ſame pardon ſhould haue been, if all offences, contemptes, forfaitures, cauſes, matters, ſuites, quarrelles, iudgeme<g ref="char:cmbAbbrStroke">̄</g>tes, execucions, penalties, &amp; all other thynges not hereafter excepted, nor con<g ref="char:EOLhyphen"/>tayned in any clauſe of prouiſo hereafter mencioned had been particulerly, ſingulerly, ſpecially &amp; plainly named, reherſed and ſpecified and alſo pardoned by propre and expreſſe wordes and names in their kyn<g ref="char:EOLhyphen"/>des, natures and qualities, by wordes and tearmes thervnto requiſite to haue be put in and expreſſed in this act of free pardon.</p>
+            <p>
+               <hi>AND</hi> that his ſayd ſubiectes nor any of them nor their executors nor adminiſtratours of any of theim, nor any of theſayd bodies corporate nor any other perſons bodies politique or corporate before named, or any of them, be nor ſhalbe ſued, vexed or inquieted in their bodies, goodes, landes or cattalles, for any maner matter, cauſe, contempt, miſdemcanor, forfaiture, treſpaſſe, offence, or any other thing ſuffred, done or committed againſt his highnes, croune, dignitie, prerogatiue, lawe or ſtatutes, but only for ſuche mat<g ref="char:EOLhyphen"/>ters, cauſes and offences as be reherſed in the excepcions and clauſes of prouiſo, in this preſent act here<g ref="char:EOLhyphen"/>after mencioned, in ſuche maner &amp; fourme, as in the ſame excepcions and clauſes of prouiſo be mencioned
+<pb facs="tcp:188936:2" rendition="simple:additions"/>
+               <pb facs="tcp:188936:2" rendition="simple:additions"/> and for none other, any ſtatute or ſtatutes, lawes, cuſtomes, vſes, or preſidentes heretofore had, made, or vſed to the contrary in any wiſe notwithſtanddyng.</p>
+            <p>
+               <hi>AND</hi> alſo the kynges highnes of his bou<g ref="char:cmbAbbrStroke">̄</g>teous liberalitie by thaucthoritie of this preſent Parliament grau<g ref="char:cmbAbbrStroke">̄</g>teth and freely geueth to euery of his ſayd ſubiectes and to euery of the ſayd bodies corporate, and other before reherſed, &amp; to euery of them, all ſuche landes, tenementes, and hereditamentes, goodes, cat<g ref="char:EOLhyphen"/>tals, debtes, fines, iſſues, profites, amerciamentes, forfaitures, and ſummes of money by any of them for<g ref="char:EOLhyphen"/>faited, whiche to his highnes doth or ſhould belong or appertain, by reaſon of any offence, co<g ref="char:cmbAbbrStroke">̄</g>tempte, treſ<g ref="char:EOLhyphen"/>paſſe, miſdemeanour, matter, cauſe, or quarel, ſuffred, done, or committed by them or any of them, which be not hereafter forepriſed or excepted in this preſent acte.</p>
+            <p>
+               <hi>AND</hi> that al and euery the kynges ſayd ſubiectes, and al and ſinguler bodies corporate, and other be<g ref="char:EOLhyphen"/>fore reherſed, may by him or themſelfes, or by his or their deputie, or deputies, or by his or their attornay or attornays, accordyng to the lawes of this realme, pleade, and miniſter this preſent acte of free pardon for his or their diſcharge, of and for euery thyng that is by vertue of this preſent acte pardoned, diſchar<g ref="char:EOLhyphen"/>ged, geuen, or graunted without any fee or other thyng in any wiſe paiyng to any perſon or perſons for writyng or entrey of the iudgement, or other cauſe, concernyng ſuche plee, writyng, or entrey, but onely xii. d. to be payed to the officer or clarke that ſhall entre the plea, matter, or iudgement, for the diſcharge of any the partie ſo pleadyng theſame, any ſtatute or vſe to the contrary in any wyſe notwithſtaudyng.</p>
+            <p>
+               <hi>AND</hi> furthermore the kynges highnes is pleaſed and contented that it be enacted by thaucthoritie of this preſent parliament, that his ſayd free pardon by the general wordes before reherſed ſhalbe reputed, demed, and iudged, allowed and taken in all maner of courtes and els where, aſwell in the woordes and clauſes of excepcions and forpriſes ſpecified in this preſent act, as in all and ſinguler other clauſes, wor<g ref="char:EOLhyphen"/>des and ſentences mencioned and reherſed in this his ſayd free pardon, moſte beneficially and auailably to al and ſinguler his ſayd ſubiectes, bodies corporate and other before reherſed, and to euery of them in all thynges ambiguous or doubtfull and moſte ſtrongly in barre and diſcharge againſt his highnes, his heires, ſucceſſours and executours in euery thyng, without any obſtacle, chalenge or other delay, whatſo<g ref="char:EOLhyphen"/>euer it ſhalbe to be made, pleaded, obiected or alledged by the kyng our ſouereigne Lorde, his heires, ſuc<g ref="char:EOLhyphen"/>ceſſours, or executors, or by his or any of their general attorney or attorneys or by any perſon or perſons for his highnes, or any of his heires, ſucceſſors or executors.</p>
+            <p>
+               <hi>AND</hi> furthermore it is enacted by the kyng our ſoueraigne Lorde, by aucthoritie of this preſent Par<g ref="char:EOLhyphen"/>liament, that if any officer or clerke of any his highnes courtes commonly called the kynges Benche, Chauntery, &amp; Co<g ref="char:cmbAbbrStroke">̄</g>mon place, or of his Exchequier, or of any other officer or clerke of any other court with in this realme or in Wales or other his highnes dominions aboue mencioned at any tyme after the tenth day of May next co<g ref="char:cmbAbbrStroke">̄</g>myng whiche ſhalbe in the yere of our Lorde God a M. ccccc. xlix. make out or write out<g ref="char:punc">▪</g> any maner writtes or other proceſſe, or any extractes, ſommons, or other preceptes wherby any of the ſayd ſubiectes or any of the ſayd bodies corporate, or other before reherſed, or any of theim, ſhalbe in any wyſe arreſted, attached, diſtrained, ſommoned, or otherwiſe vexed, inquieted, or greued in his or their bo<g ref="char:EOLhyphen"/>dies, landes, tenementes, goodes or cattals, or in any of them, for or becauſe of any maner of thyng par<g ref="char:EOLhyphen"/>doned or diſcharged by vertue of this act of free pardon, he ſo offendyng &amp; therof lawfully condempned, ſhall yelde and pay for the recompence therof to the partie ſo greued or offended, treble dammages, to be accompted as parcell of the dammages and coſtes of the ſuite. And neuertheles all and ſinguler ſuche writtes, proceſſe, extractes and preceptes, ſo to be made for or vpo<g ref="char:cmbAbbrStroke">̄</g> any maner thyng pardoned or diſchar<g ref="char:EOLhyphen"/>ged by this act of free pardon, ſhalbe vtterly voyde and of none effect</p>
+            <p>Except alwayes and forepriſed out of this general &amp; free pardon, all and all maner prepenſed and vo<g ref="char:EOLhyphen"/>luntary murders and poyſonynges: And excepte all ſelonyous, takyng or ſtealyng of any goodes or cattals out of any Churche, Chapel or dwellyng houſe, and all and ſinguler robberies &amp; robbery of any perſon or perſons in or nere any high way committed, perpetrated or done.</p>
+            <p>And alſo except and forpriſed out of this free pardon, all and all maner of piracies, and offences vpon the ſea, had, done, committed or perpetrated, ſithen the firſt day of Ianuary in the firſt yere of the reigne
+<pb facs="tcp:188936:3"/>
+               <pb facs="tcp:188936:3" rendition="simple:additions"/> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f our <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the king. And alſo all and all maner of puniſhmentes, Impeticions forfaittu<g ref="char:EOLhyphen"/>res, peynes of death, Iudgementes, &amp; executions, for the premiſſes before excepted, &amp; for euery of theim.</p>
+            <p>
+               <hi>AND</hi> except and forpriſed out of this fre pardon, all &amp; all maner of dcreates &amp; conceilementes, of al &amp; ſynguler moniers, and other officers, miniſters, and workemen of or in any of the mintes within any of the kynges realmes or dominions, perpetrated, done, or committed in or about the makyng coynyng or altering of any money curraunt within this realme, or in any wyſe touching or concerning any accomp<g ref="char:EOLhyphen"/>tes or bookes of any of the ſayd officers or miniſters or any of them, and all maner of Impeticions, pu<g ref="char:EOLhyphen"/>niſhmentes forfayctures and peines for the ſame.</p>
+            <p>
+               <hi>AND</hi> except and forpryſed out of this fre pardon, all and ſinguler ſommes &amp; ſomme of money grafi<g ref="char:EOLhyphen"/>ted to late kyng Henry theight, by waye or meane of ſubſidie, fiftene, beneuolence, lone and contributio<g ref="char:cmbAbbrStroke">̄</g> or by any of the ſame wayes or meanes. And all deteiners, withholdinges and none paimentes, touching or concerning the ſame, and alſo all and all maner of accomptes, and all actions, ſuites and demaundes touching or co<g ref="char:cmbAbbrStroke">̄</g>cerning any accomptes, and all arrerages of accompte, and al debtes, Impeticions, ſuites demaunde<g ref="char:cmbAbbrStroke">̄</g>s and execucions by occaſion or meanes of any accompe or for any accompte.</p>
+            <p>
+               <hi>AND</hi> alſo except all tytles of actions of quare impedit, all rauyſhmentes and withholding of the kynges wardes, and the withholding of any wardes, landes or teneme<g ref="char:cmbAbbrStroke">̄</g>tes, &amp; the profites of the ſame lan<g ref="char:EOLhyphen"/>des and tenementes, and all and euery fyne or fynes for the ſingle value or double value, of the mariage or mariages of any the kinges wardes, at any tyme growen to the king our ſoueraigne lorde, or to any of his noble progenitours.</p>
+            <p>
+               <hi>AND</hi> alſo except all homages &amp; reliefes, and all rentes ſeruices, rentes charges, rentes ſeck and ten<g ref="char:EOLhyphen"/>thes and charterages of euery of theim.</p>
+            <p>
+               <hi>AND</hi> alſo except and forpryſed out of this free pardon all and ſinguler forfeitures, and all maner of penalties, ſommes of money and profyttes, whatſoeuer growen or dewe by reaſon of any offence or acte committed or done, contrarye to any ſtatute or ſtatutes, or contrarye to the comon law extending aboue the ſomme of ten poundes in money or value wherof any ſeaſure was made, or any informacion geuen in the kynges exchequer or any ſuet there commenced and now depending before the .xii. daye of Fe<g ref="char:EOLhyphen"/>bruary in the yere of our lord God M.ccccc.xlviij. and not yet determined, or wherof the kinges high<g ref="char:EOLhyphen"/>nes or king Henry theight, by byll ſealed with any of their ſeales before the .xiiij. daye of Marche in the yere of our lord God .M.ccccc.xlviij. haue made any gyfte or aſſignement, to any of the ſeruauntes of our ſoueraigne lorde the king, or king Henry theight, or to any other perſone or perſones.</p>
+            <p>
+               <hi>AND</hi> except and forpryſed out of this free pardon, all and ſinguler forfaytours and ſommes of mo<g ref="char:EOLhyphen"/>ney being dew to our ſoueraygne lorde the king, or to king Henry theight, by any penall ſtatute or ſta<g ref="char:EOLhyphen"/>tutes, which be conuerted into the nature of debtes by iudgement or by the agrement of the offendour.</p>
+            <p>
+               <hi>AND</hi> except and forpryſed out of this fre pardon, all and all maner of debtes, dewe, and to be dew to our ſoueraigne lorde the king, or vnto the late noble king of famous memorie king Henry theight, and king Henry the ſeuenth, or to any of theim (other then ſuch as are dewe to our ſoueraigne lord the kyng) vpon any obligacion or recogniſaunce forfetted for none apparaunce, or for not keping of the peace, or not being of good behauour.</p>
+            <p>
+               <hi>AND</hi> alſo except al yſſues, fynes, and amerciame<g ref="char:cmbAbbrStroke">̄</g>tes, afferid, taxed, ſet, extracted, or entered ſeuerally, or particulerlye touchyng &amp; concerning any one perſone, or mo perſons ioyntlye, extending to the ſomme of twentye poundes or aboue. And that all and ſynguler other fynes, aſwell fynes pro licencia concor<g ref="char:EOLhyphen"/>dandi, as other fynes for contemptes or offences, ſet, or taxed, &amp; alſo all yſſues, and amerciamentes aſwell reall as other whiche ſeuerally or particulerlye extend not vpon or concerning any one perſone or moo perſones ioyntly, to the ſomme of twenty pou<g ref="char:cmbAbbrStroke">̄</g>des, whcther they be totted or not totted, take<g ref="char:cmbAbbrStroke">̄</g> to the charge of any ſhriefe or ſhryefes, or not taken to his or their charge extreated or not extreated, whether they be turned into debt or not turned into debt, and not being leuied nor receiued by any ſhriefe or ſhriefes, bay<g ref="char:EOLhyphen"/>lyefe, miniſters, or other officers, ſhalbe fully, clercly and plainely pardoned and diſcharged againſt the king oure ſoueraigne lorde his heires and ſucceſſors for euer by this preſent acte of fre pardon.</p>
+            <pb facs="tcp:188936:4"/>
+            <pb facs="tcp:188936:4" rendition="simple:additions"/>
+            <p> 
+               <hi>AND</hi> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> enacted by the aucthoritie aforeſaid, that in care it ſhalbe obiected to or againſt any ſhriefe or ſhriefes, or other accomptaunte or accomptauntes in the kinges court of exchequer or in any other his courtes, that any ſhriefe or ſhriefes, or other officers accomptaunte haue receaued or taken any ſuche fynes yſſues or amerciamentes, by this preſent acte pardoned &amp; acquited, that then euery ſuche ſhriefe or ſhriefes or other accomptauntes ſhalbe diſcharged, releaſed, pardoned, and acquited therof by his or their othe without any further triall in that behalfe.</p>
+            <p>
+               <hi>PROVIDED</hi> alwayes that this preſent acte of fre pardon, nor any thing therin conteigned in any wiſe extend to diſcharge, pardon, remit, or acquite any perſone or perſones, for any maner of yſſues, fines or amerciamentes of twentie pounde or vnder wherof any ſhriefes hath here to fore accompted before the baro<g ref="char:cmbAbbrStroke">̄</g>s of the kinges exchequer, or els where, and payed the ſame yſſues, fynes, or amerciamentes, vpon his or their ſaid accompte, determined to the kinges vſe, and haue his or their quietuseſt for the ſame.</p>
+            <p>
+               <hi>PROVIDED</hi> alſo and be it enacted by thauctoritie of this preſent parliament, that all and euery perſon and perſons which haue tended to ſewe liuereye out of the kinges ha<g ref="char:cmbAbbrStroke">̄</g>des, or that ought to ſew any lyucreye out of the kinges handes, or that ought to ſewe any outer lemaine of any manours, landes, te<g ref="char:EOLhyphen"/>nementes, or hereditamentes whatſoeuer they be, ſhal ſue and be bounden to ſue, his and their liuereie, ly<g ref="char:EOLhyphen"/>uereis, and outer lemain of his and their manours, landes, tenementes, &amp; hereditamentes, as they ought or ſhould haue done, if this fre pardon had neuer bene graunted, any article, clauſe, matter, or ſentence, acte or actes, thing or thinges<g ref="char:punc">▪</g> in this preſent acte of fre perdon, compryſed or ſpecified to the contrarie in anywiſe notwithſtanding.</p>
+            <p>
+               <hi>AND</hi> excepte and forpriſed out of this free pardon, all and ſynguler perſone and perſones, being the ſaide. xiiij. daye of Marche in the yere of oure lorde God a M. ccccc. xlviij. priſoner or priſoners in the toure of London, or in the fleete, or whiche were in the ſaid priſons, or any of theim at any tyme ſyns the fyrſt day of Februarye, in the yere of our lord God M. ccccc. xlviii. and are not diſcharged out of pryſon the ſaid. xiiii. daye of Marche: and alſo all and ſynguler perſone &amp; perſones at any tyme before the eight daye of Marche, in the ſayd yere of our lord God M. ccccc. xlviii. put to death or in execucion by vertue of any maner of iudgement againſt him or theim geuen.</p>
+            <p>
+               <hi>AND</hi> except and forpriſed out of this free pardon, all and all maner of treaſons done, committed or perpetrated by any perſone or perſones in any of the parties of beyond the ſea, or in Scotlande, by any perſon or perſones nowe being beyond the ſea, or in Scotlande (other then ſuche treaſons or petit trea<g ref="char:EOLhyphen"/>ſon as hath ben committed, perpetrated or done by any perſon being beyond the ſea, or in Scotla<g ref="char:cmbAbbrStroke">̄</g>d, that before the feaſte of the natiuitie of our lord God, that ſhalbe in the yere of our lord God M. ccccc. xlix. ſhall come and make their returne and repayre into this realme of England.) And except al impeticions, puniſhmentes, forfaictours, paines of death, executions and iudgementes, for the ſaid treaſons.</p>
+            <p>
+               <hi>AND</hi> furthermore the kinges maieſtie of his eſpeciall grace and clemencye, is pleaſed and conten<g ref="char:EOLhyphen"/>ted, that it be enacted and eſtabliſhed by thaucthoritie aforeſaid, that all and ſynguler perſone &amp; perſons being borne within this realme of England, or in any of the kinges dominions, and now being beyond the ſea, or in Scotland, whiche before y<hi rend="sup">e</hi> fyrſt day of Marche, in the yere of our lord God M. ccccc. xlviii. did flee out of this realme of England, or any other of the kinges dominions, for any high treaſon, pe<g ref="char:EOLhyphen"/>tyt treaſon, miſpriſion of treaſon, or for any felonie, murder or other crime or offence by him or theim in anywyſe committed, done or perpetrated, ſhall by vertue of this free pardon be clerely diſcharged, acqui<g ref="char:EOLhyphen"/>ted and pardened of all and all maner of treaſons, petit treaſons, miſpriſion of treaſon, and other offen<g ref="char:EOLhyphen"/>ces, and crimes whatſoeuer, done, committed, or perpetrated before the ſaid fyrſt daye of Marche, in the ſaid yere of our lorde God M. ccccc. xlviii. And of all maner of Impeticions, ſuites, penalties, forfaic<g ref="char:EOLhyphen"/>tours, and execucions for the ſame: So that he or they do come, and make their retourne and repaier into this realme of England, on thiſſyde the ſayd feaſte of the natiuitie of our lorde God M. ccccc. xlix.</p>
+            <p>
+               <hi>AND</hi> alſo our ſaid ſoueraigne lord the king, by vertue of this acte, and by thaucthoritie aboueſayd, doth geue aucthoritie and licence to all and euery of the ſaid perſones and perſone, being beyond the ſea or in Scotland, to returne and repaire into this realme of England, and other his dominions, before the
+<pb facs="tcp:188936:5"/>
+               <pb facs="tcp:188936:5" rendition="simple:additions"/> ſame feaſte of the Natiuitie of our lorde God M. ccccc. xlix.</p>
+            <p>
+               <hi>PROVIDED</hi> alwayes and be it enacted by thaucthoritie aforeſayd that it ſhalbe lefull to all and euery clerke and other officer of any of the kynges courtes without any forfaiture, loſſe or puniſhement for the ſame, to award and make writtes of Capias Vtlagatum, at the ſuite of the partie plaintife, againſt any perſon or perſons, beyng outlawed, in any accion, to the intent to compel the perſons or perſon ſo out lawed to make anſwere to the plaintife or plaintifes, at whoſe ſuite he or they were or was outlawed, and alſo that euery perſon and perſons nowe beeyng outlawed, ſhalbe bounden to ſue a writ of Scire facias againſt the partie or parties at whoſe ſuite he or they wer or was outlawed before ſuche tyme as the per<g ref="char:EOLhyphen"/>ſons or perſon ſo outlawed ſhall take any aduauntage of this free pardon concernyng his or their out<g ref="char:EOLhyphen"/>lawry.</p>
+            <p>
+               <hi>AND</hi> the kyng our ſoueraigne lorde is contented and pleaſed, to graunt by thaucthoritie aforeſayd, that it ſhalbe lawfull to all and ſinguler Archebiſhops and biſhops of this his realme of England and Waies to deliuer out of priſon and ſet at libertie all and ſinguler thoſe perſons beyng in priſon in their cuſtody, or in the cuſtody of any of them as clerkes or clerke conuict or attainted, whiche be pardoned by this acte of free pardon, without any further act or ſuite to be made for the allowaunce of this pardon or otherwiſe, any acte of Parliament, lawe, vſage, cuſtome or other thyng to the contrary in any wiſe not<g ref="char:EOLhyphen"/>withſtandyng.</p>
+            <p>
+               <hi>PROVIDED</hi> alwaies and be it enacted by aucthoritie aforeſayd that this preſent act of free par<g ref="char:EOLhyphen"/>don or any thyng therin contained, ſhal not in any wiſe extend to diſcharge or pardon any offence, payn, or penaltie done, committed, or forfaited by force of any eſtatute heretofore made againſt the decaiyng of any houſe or houſes of huſbandry or conuertyng of any lande from tyllage into paſture, otherwiſe or in any other maner, then to pardon and diſcharge all iſſues, profites, paynes and penalties growen or due to the kynges Maieſtie or to his late father of famous memory kyng Henry the eight before the laſt day of Marche in the yere of our Lord God M. ccccc. xlix. or by reaſon of any ſuche offence or offe<g ref="char:cmbAbbrStroke">̄</g>ces, which iſſues, profites, paynes and penalties are plainely and clearely before pardoned in and by this preſent act of free pardon, nor ſhal extende to geue or make any licence or diſpenſacion to any perſon or perſons to hold or co<g ref="char:cmbAbbrStroke">̄</g>tinue the ſame ſo decayed or co<g ref="char:cmbAbbrStroke">̄</g>uerted contrary to the forme of any ſuche eſtatute or ſtatutes.</p>
+            <closer>¶ God ſaue the Kyng.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted in the houſe of Richard Grafton, printer to the Kynges Maieſtie:</p>
+         </div>
+         <div type="license">
+            <p>Cum priuilegio ad imprimendum ſolu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
